@@ -6,7 +6,7 @@ This project is abbout learning from TV scripts and then automatically generate 
 
 
 
-## Algorithms
+## Pipeline
 
 1. **Preprocess** 
    * Tokenize the text (also turn punctuation into a token)
