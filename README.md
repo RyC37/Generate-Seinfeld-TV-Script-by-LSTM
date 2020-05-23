@@ -1,4 +1,4 @@
-# *Seinfeld* Script Generation
+# *Seinfeld* TV Script Generation
 
 ![cover](./assets/cover.png)
 
